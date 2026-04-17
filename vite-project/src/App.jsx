@@ -7,7 +7,7 @@ import Image4 from"/super.jfif"
 function App() {
   return (
     
-<div class="bg-gray-400 h-full w-full ">
+<div class="bg-green-400 h-full w-full ">
 <nav class=" bg-black flex flex-wrap justify-center ">
 
 <img src={Image1} class="h-20 w-32 ml-5 "/>
